@@ -33,6 +33,7 @@ if(
 			</header><!-- .entry-header -->
 		</div>
 	</div>
+<?php the_content() ?>
 	<?php
 }
 ?>
